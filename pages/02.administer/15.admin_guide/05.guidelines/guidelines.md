@@ -1,5 +1,5 @@
 ---
-title: Advices and guidelines
+title: Advice and guidelines
 template: docs
 taxonomy:
     category: docs
